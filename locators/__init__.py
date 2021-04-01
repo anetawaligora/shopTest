@@ -1,0 +1,2 @@
+from locators.login_locators import LoginLocators
+from locators.products_locators import ProductsLocators
